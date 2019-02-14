@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                         loadFragment(new FourthFragment());
                         break;
                     case R.id.menu_profile:
-                        loadFragment(new FirstFragment());
+                        loadFragment(new FifthFragment());
                         break;
                 }
                 return true;
