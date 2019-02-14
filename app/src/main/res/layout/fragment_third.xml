@@ -15,7 +15,7 @@
         android:textSize="25sp" />
 
     <Button
-        android:id="@+id/firstButton"
+        android:id="@+id/thirdButton"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"

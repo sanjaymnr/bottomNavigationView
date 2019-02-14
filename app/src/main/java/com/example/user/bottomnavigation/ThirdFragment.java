@@ -18,15 +18,15 @@ public class ThirdFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        view = inflater.inflate(R.layout.fragment_first, container, false);
+        view = inflater.inflate(R.layout.fragment_third, container, false);
         // get the reference of Button
-        firstButton = view.findViewById(R.id.firstButton);
+        firstButton = view.findViewById(R.id.thirdButton);
         // perform setOnClickListener on first Button
         firstButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 // display a message by using a Toast
-                Toast.makeText(getActivity(), "First Fragment", Toast.LENGTH_LONG).show();
+                Toast.makeText(getActivity(), "Third Fragment", Toast.LENGTH_LONG).show();
             }
         });
         return view;
