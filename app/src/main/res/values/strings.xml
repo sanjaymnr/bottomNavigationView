@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <!--BottomBarNavigation Menus-->
+    <string name="search">Search</string>
+    <string name="search_by_jobs">Search for Job Type</string>
+    <string name="save_lists">Saved</string>
+    <string name="applications">Applications</string>
+    <string name="job_alerts">Job Alerts</string>
+    <string name="profile">Profile</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="fourth_fragment">Fourth Fragment</string>
+    <string name="fifth_fragment">Fifth Fragment</string>
+
+    <string name="this_is_first_fragment">This is a First Fragment</string>
+    <string name="this_is_second_fragment">This is a Second Fragment</string>
+    <string name="this_is_third_fragment">This is a Third Fragment</string>
+    <string name="this_is_fourth_fragment">This is a Fourth Fragment</string>
+    <string name="this_is_fifth_fragment">This is a Fifth Fragment</string>
+
+</resources>
